@@ -30,7 +30,7 @@ mysqli_close($conn);
 
 <body>
     <div>
-        <video src="welcomevideo.mp4" autoplay loop muted  width="500px " height="500px"></video>
+     <!-- <video src="welcomevideo.mp4" autoplay loop muted  width="500px " height="500px"></video>-->
     </div>
 </body>
 
